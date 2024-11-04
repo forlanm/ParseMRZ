@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "html-to-json-parser": "^2.0.1"
+  }
+}
