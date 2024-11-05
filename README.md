@@ -57,3 +57,5 @@ make
 ```bash
 run
 ```
+
+p.s. Во всех файлах из scraper headless = false. Для большей скорости желательно установить headless = true.
